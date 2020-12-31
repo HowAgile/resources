@@ -18,3 +18,4 @@ Chinese Editor Team: [HowAgile.org](https://www.HowAgile.org)
 * [全中文简体版](https://zh-chs.scrumguides.guru/)
 * [全中文繁體版](https://zh-cht.scrumguides.guru/)
 
+.
