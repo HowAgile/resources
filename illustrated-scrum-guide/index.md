@@ -9,10 +9,6 @@ description: [插圖 Scrum 指南中文版]
 Illustrated by Kate Hobler (Terlecka) @ [Brass Willow](https://brasswillow.com/), 
 Chinese Editor Team: [HowAgile.org](https://www.HowAgile.org)
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=1415709141862803&autoLogAppEvents=1" nonce="UpjLMRSa"></script>
-<div class="fb-like" data-href="https://resources.howagile.org/illustrated-scrum-guide/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
-
 # 2020 Scrum 指南插圖版 🎨
 
 {:.callout}
