@@ -1,6 +1,6 @@
 ---
 title: The Illustrated Scrum Guide (ISG) Chinese Editions
-description: [插圖 Scrum 指南中文版]
+description: [圖像化 Scrum 指南中文版]
 ---
 
 
@@ -9,7 +9,7 @@ description: [插圖 Scrum 指南中文版]
 Illustrated by Kate Hobler (Terlecka) @ [Brass Willow](https://brasswillow.com/), 
 Chinese Editor Team: [HowAgile.org](https://www.HowAgile.org)
 
-# 2020 Scrum 指南插圖版 🎨
+# 🎨 圖像化 2020 Scrum 指南
 
 {:.callout}
 * Chinese (Simplified) <br/> [2020 简体中文 Scrum 指南](Illustrated-Scrum-Guide-2020-INTERNET-Chinese-Simplified-Full.pdf)
